@@ -1,6 +1,6 @@
-# Gemini Pro Unleashed: AI Chat Bot & Visual Magic Explosion! 🚀🎨🤖👁️
+# MediMate Unleashed: AI Chat Bot & Visual Magic Explosion! 🚀🎨🤖👁️
 
-Welcome to the GitHub repository for "Gemini Pro Unleashed"! 🌟 In this project, we take coding to new heights by combining the power of Google's Gemini Pro with Python to build an intelligent chat bot that goes beyond words—it sees and understands!
+Welcome to the "MediMate ! 🌟 In this project, we take coding to new heights by combining the power of Google's Gemini Pro with Python to build an intelligent chat bot that goes beyond words—it sees and understands!
 
 ## What's Inside:
 
@@ -19,21 +19,11 @@ Welcome to the GitHub repository for "Gemini Pro Unleashed"! 🌟 In this projec
 ## Get Started:
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/MrSentinel137/GeminiProUnleased.git
-cd GeminiProUnleashed
+git clone https://github.com/luci1113/MediMate.git
+cd MediMate
 ```
 
-2. **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-     OR
-    
-    ```bash
-    pip3 install -r requirements.txt
-    ```
-
-3. **Run the Code:**
+2. **Run the Code:**
  ```bash
- streamlit run Gemini.py
+ streamlit run MediMate.py
 ```
