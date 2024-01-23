@@ -1,4 +1,4 @@
-# MediMate Unleashed: AI Chat Bot & Visual Magic Explosion! 🚀🎨🤖👁️
+# DoctorAI Unleashed: Chat Bot & Visual Magic Explosion! 🚀🎨🤖👁️
 
 Welcome to the "MediMate ! 🌟 In this project, we take coding to new heights by combining the power of Google's Gemini Pro with Python to build an intelligent chat bot that goes beyond words—it sees and understands!
 
